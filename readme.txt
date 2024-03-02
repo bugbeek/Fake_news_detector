@@ -1,0 +1,1 @@
+The Fake News Detector project aims to identify and classify fake news using machine learning techniques. In a world where misinformation spreads rapidly, this project contributes to combating the dissemination of false information.
